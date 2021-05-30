@@ -15,5 +15,6 @@ public class GitTest {
         System.out.println("master test");
         System.out.println("secondBranch test");
         System.out.println("master push");
+        System.out.println("master pull");
     }
 }
